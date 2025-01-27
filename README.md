@@ -16,11 +16,12 @@ This project implements a PySpark-based K-Means clustering pipeline for analyzin
    - `numpy`
    - `pandas`
    - `matplotlib`
+   - `seaborn`
 
 Install dependencies using:
 
 ```bash
-pip install pyspark numpy pandas matplotlib
+pip install pyspark numpy pandas matplotlib seaborn
 ```
 
 ## Usage
